@@ -1,6 +1,20 @@
-{
+[
+    {
     "akun" : {
     "username": "admin",
     "password" : "admin"
-    }
-}
+        }
+    },
+    {
+    "akun" : {
+    "username": "user",
+    "password" : "user"
+        }
+    },
+    {
+    "akun" : {
+    "username": "a",
+    "password" : "a"
+        }
+    },
+]
