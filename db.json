@@ -1,20 +1,11 @@
-[
-    {
-    "akun" : {
-    "username": "admin",
-    "password" : "admin"
-        }
-    },
-    {
-    "akun" : {
-    "username": "user",
-    "password" : "user"
-        }
-    },
-    {
-    "akun" : {
-    "username": "a",
-    "password" : "a"
-        }
-    }
-]
+{
+    "akun" : [
+        {"username": "admin", "password" : "admin"},
+        {"username": "user", "password" : "user"},
+        {"username": "ilham", "password" : "ilham"}
+     ],
+    "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+    ]
+}
