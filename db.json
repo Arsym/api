@@ -11,5 +11,5 @@
     "admin": {
             "adminlist":[{"username":"admin1", "password":"b123"},{"username":"admin2", "password":"b123"},{"username":"admin3", "password":"b123"}],
             "ID":2
-    },
+    }
 }
