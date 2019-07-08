@@ -3,7 +3,6 @@
         {"username": "admin", "password" : "admin1"},
         {"username": "user", "password" : "user1"},
         {"username": "ilham", "password" : "ilham1"},
-        "id": 1
      ]
-    
+    "id" : 1
 }
