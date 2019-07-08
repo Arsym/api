@@ -1,8 +1,11 @@
 {
-    "akun" : [
-        {"username": "admin", "password" : "admin1"},
-        {"username": "user", "password" : "user1"},
-        {"username": "ilham", "password" : "ilham1"},
-     ],  
-    "id": 1
+    "akun": [{
+        "id": 1,
+        "username": "admin",
+        "password": "admin"
+      }, {
+        "id": 2,
+        "username": "user",
+        "password": "user"
+    }]
 }
