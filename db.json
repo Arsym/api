@@ -3,13 +3,6 @@
         {"username": "admin", "password" : "admin1"},
         {"username": "user", "password" : "user1"},
         {"username": "ilham", "password" : "ilham1"}
+        "id":1
      ],
-    "user": {
-            "userlist":[{"username":"usr1", "password":"a123"},{"username":"usr2", "password":"a123"},{"username":"usr3", "password":"a123"}],
-            "ID":1
-    },  
-    "admin": {
-            "adminlist":[{"username":"admin1", "password":"b123"},{"username":"admin2", "password":"b123"},{"username":"admin3", "password":"b123"}],
-            "ID":2
-    }
 }
