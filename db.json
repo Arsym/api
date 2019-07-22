@@ -1,15 +1,15 @@
 {
     "akun": [{
         "id": 0,
-        "username": "admin",
+        "name": "admin",
         "password": "admin"
       }, {
         "id": 3,
-        "username": "user",
-        "password": "user"
+        "name": "user",
+        "word": "user"
       }, {
         "id": 4,
-        "username": "123",
-        "password": "123"
+        "name": "123",
+        "word": "123"
     }]
 }
