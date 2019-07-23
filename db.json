@@ -1,15 +1,35 @@
 {
     "akun": [{
-        "id": 0,
+        "id": 1,
         "name": "admin",
         "password": "admin"
       }, {
-        "id": 3,
+        "id": 2,
         "name": "user",
         "word": "user"
       }, {
-        "id": 4,
+        "id": 3,
         "name": "123",
+        "word": "123"
+      }, {
+        "id": 4,
+        "name": "Adi",
+        "word": "123"
+      }, {
+        "id": 5,
+        "name": "Budi",
+        "word": "123"
+      }, {
+        "id": 6,
+        "name": "Cahyo",
+        "word": "123"
+      }, {
+        "id": 7,
+        "name": "Doni",
+        "word": "123"
+      }, {
+        "id": 8,
+        "name": "Eko",
         "word": "123"
     }]
 }
